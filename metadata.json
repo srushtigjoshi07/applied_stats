@@ -1,0 +1,6 @@
+{
+  "name": "Applied Statistics Academic Portfolio",
+  "description": "An academic portfolio website for the course Applied Statistics (25EMAB218) at KLE Technological University, featuring detailed module plans, lab assessments, and analytical reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
